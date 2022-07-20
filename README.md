@@ -1,2 +1,2 @@
 # Hamoye-Internship
-My four months Experience as a Hamoye Intern
+My four months Experience as an Intern under Hamoye
